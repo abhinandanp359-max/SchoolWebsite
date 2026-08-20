@@ -1,0 +1,19 @@
+{
+  "name": "schoolwebsite",
+  "version": "1.0.0",
+  "description": "A professional, full-stack website for Mount Carmel School — a Christian missionary school committed to education, values, character, service, compassion, and excellence.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "sharp": "^0.35.3"
+  }
+}
